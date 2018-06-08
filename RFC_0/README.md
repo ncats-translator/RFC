@@ -12,5 +12,5 @@
 **Requested RFC posting end date :**  
 **Date Emailed for consideration :** 06/07/2018  
 **DT-RFC-Status :** Active and open RFC period  
-**URL Link to GitHub :** https://github.com/ResearchSoftwareInstitute/greendatatranslator/tree/master/RFC/RFC_0    
+**URL Link to GitHub :** https://github.com/ncats-translator/RFC      
 **URL Link to Google Document :** http://bit.ly/dt-rfc-0  
