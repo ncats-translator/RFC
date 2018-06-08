@@ -47,7 +47,7 @@
 	c. Postponed  
 	d. Unsuccessful  
 	e. Withdrawn  
-9. All versions of of a given DT-RFC Google Doc will be named will be named with Google version history, and an individual PDF of each named version including all contributor comments therein associated with that version will be placed in https://github.com/ResearchSoftwareInstitute/greendatatranslator/rfcs. 
+9. All versions of of a given DT-RFC Google Doc will be named will be named with Google version history, and an individual PDF of each named version including all contributor comments therein associated with that version will be placed in https://github.com/ncats-translator/RFC/tree/master.
 
 
 
