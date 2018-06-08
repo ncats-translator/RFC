@@ -5,8 +5,8 @@
 
 
 1. Read the [foundational document to the DT-RFC process](#background).  Your group’s DT-RFC should align with the principles and roles therein.  
-2. Create a written draft your DT-RFC as a Google Doc and set the Google Doc Sharing Status as "Anyone with the link can comment"  
-	a. The location of the DT-RFC document folder will be provided by DT project management staff  
+2. Create a written draft your DT-RFC as a Google Doc and set the Google Doc Sharing Status as "Anyone with the link can comment".  
+	a. The location of the DT-RFC document folder will be provided by DT project management staff.  
 3. Except for the header, the format of the DT-RFC Google Doc is not prescriptive and should contain content sufficient for the DT-RFC-Type (defined next) and any supporting information or other documents.   The DT-RFC header placed at the beginning of the DT-RFC should contain this information:  
 	* DT-RFC-# : {NOTE: Leave blank as this will be assigned by DT-RFC-Governance in Step 4 upon initial submission}  
 	* DT-RFC-Title :  
